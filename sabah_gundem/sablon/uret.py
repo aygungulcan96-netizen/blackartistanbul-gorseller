@@ -2,6 +2,7 @@
 
 Kullanım:
     python3 uret.py girdi.json cikti.jpg
+    -> cikti.jpg (akış, 1080x1350) ve cikti_hikaye.jpg (hikâye, 1080x1920)
 
 girdi.json örneği:
 {
@@ -40,7 +41,7 @@ def uret(veri, cikti):
     fontlari_hazirla()
     with sync_playwright() as p:
         b = p.chromium.launch(executable_path="/usr/bin/google-chrome", args=["--allow-file-access-from-files"])
-        pg = b.new_page(viewport={"width": 1080, "height": 1350})
+        pg = b.new_page(viewport={"width": 1080, "height": 1920})
         pg.goto("file://" + os.path.join(HERE, "sablon.html"))
         pg.evaluate("document.fonts.ready")
         pg.evaluate("d => render(d)", veri)
@@ -49,8 +50,12 @@ def uret(veri, cikti):
         sigdi = pg.evaluate("() => fit()")
         tmp = tempfile.mktemp(suffix=".png")
         pg.locator("#a").screenshot(path=tmp)
+        tmp_s = tempfile.mktemp(suffix=".png")
+        pg.locator("#s").screenshot(path=tmp_s)
         b.close()
     Image.open(tmp).convert("RGB").save(cikti, quality=92)
+    kok, uz = os.path.splitext(cikti)
+    Image.open(tmp_s).convert("RGB").save(kok + "_hikaye" + uz, quality=92)
     if not sigdi:
         print("UYARI: başlık/özet alana sığmadı, metni kısaltın.", file=sys.stderr)
     return sigdi

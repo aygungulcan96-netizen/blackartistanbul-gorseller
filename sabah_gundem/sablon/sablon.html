@@ -24,8 +24,11 @@ html,body{margin:0;padding:0}
 #a .l{display:block;font-family:'Inter';font-weight:500;font-size:22px;letter-spacing:2px;color:#4a463f;margin-top:10px;text-transform:uppercase}
 #a .foot{position:absolute;left:88px;right:88px;bottom:84px;display:flex;justify-content:space-between;font-family:'Inter';font-size:21px;color:#6b665d;letter-spacing:1px}
 #a .foot b{font-weight:800;color:#151515;letter-spacing:4px}
+#s{width:1080px;height:1920px;background:#f2ede3;padding-top:230px;box-sizing:border-box;position:relative}
+#s .snote{position:absolute;left:88px;right:88px;bottom:250px;font-family:'Inter';font-weight:700;font-size:22px;letter-spacing:5px;color:#151515}
+#s .snote .r{width:90px;height:4px;background:#b8322a;margin-bottom:22px}
 </style></head><body>
-<div id="a">
+<div id="s"><div id="a">
   <div class="mast"><div class="t">SABAH GÜNDEMİ</div><div class="d" id="tarih"></div></div>
   <div class="thin"></div>
   <div class="main">
@@ -35,6 +38,8 @@ html,body{margin:0;padding:0}
   </div>
   <div class="stats" id="stats"></div>
   <div class="foot"><span id="kaynak"></span><b>BLACKARTISTANBUL</b></div>
+</div>
+<div class="snote"><div class="r"></div>AYRINTILAR VE KAYNAKLAR GÖNDERİDE</div>
 </div>
 <script>
 function render(d){

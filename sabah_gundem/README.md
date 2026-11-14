@@ -4,7 +4,7 @@ blackartistanbul hesabının her sabah paylaşılan haber/gündem serisi. Tasar�
 
 ## Akış
 1. **Pazar akşamı** (zamanlanmış görev): gelecek haftanın 7 gönderisi (pzt–paz) hazırlanır, `hafta-YYYY-MM-DD/` klasörüne (tarih = haftanın pazartesisi) görseller ve `plan.json` yüklenir, paket kullanıcıya gösterilir. Kullanıcı onay verince ilgili kayıtların `onay` alanı `true` yapılıp push edilir.
-2. **Her sabah 08:52** (zamanlanmış görev): o güne ait, `onay: true` ve `paylasildi: false` olan kayıt Windsor ile paylaşılır, `paylasildi: true` ve `media_id` yazılıp push edilir. Onaysız kayıt asla paylaşılmaz.
+2. **Her sabah 08:52** (zamanlanmış görev): o güne ait, `onay: true` ve `paylasildi: false` olan kayıt Windsor ile akışta paylaşılır (`create_image_post`), hemen ardından aynı içeriğin hikâye sürümü (`gorsel` adının sonuna `_hikaye` eklenmiş dosya) `create_story` ile paylaşılır. `paylasildi: true`, `media_id` ve `hikaye_paylasildi: true` yazılıp push edilir. Onaysız kayıt asla paylaşılmaz.
 
 ## plan.json biçimi
 ```json
@@ -18,7 +18,8 @@ blackartistanbul hesabının her sabah paylaşılan haber/gündem serisi. Tasar�
       "kaynaklar": ["https://..."],
       "onay": false,
       "paylasildi": false,
-      "media_id": null
+      "media_id": null,
+      "hikaye_paylasildi": false
     }
   ]
 }
@@ -26,7 +27,7 @@ blackartistanbul hesabının her sabah paylaşılan haber/gündem serisi. Tasar�
 Görsel URL'si: `https://raw.githubusercontent.com/aygungulcan96-netizen/blackartistanbul-gorseller/main/sabah_gundem/<gorsel>`
 
 ## Görsel üretimi
-`python3 sablon/uret.py girdi.json cikti.jpg` — girdi alanları `sablon/uret.py` başındaki açıklamada. Başlık uzunsa yazı otomatik küçülür; "UYARI" çıkarsa metni kısalt.
+`python3 sablon/uret.py girdi.json cikti.jpg` — girdi alanları `sablon/uret.py` başındaki açıklamada. Her çalıştırma iki dosya üretir: `cikti.jpg` (akış, 1080x1350) ve `cikti_hikaye.jpg` (hikâye, 1080x1920). Başlık uzunsa yazı otomatik küçülür; "UYARI" çıkarsa metni kısalt.
 
 ## İçerik kuralları
 - Hesap bağımsız bir edebiyat hesabıdır: hesap sahibinden, onun kitaplarından ya da yayınevinden söz edilmez.
