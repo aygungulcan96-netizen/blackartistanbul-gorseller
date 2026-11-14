@@ -1,4 +1,4 @@
-# Sabah Gündemi — blackartistanbul
+# Sabah Gündemi (kartta: "EDEBİYAT GÜNDEMİ") — blackartistanbul
 
 blackartistanbul hesabının her sabah paylaşılan haber/gündem serisi. Tasarım: "Gazete" şablonu (krem zemin, Playfair Display + Inter, kırmızı etiket, altta üç rakam). İlk gönderi: 14 Kasım 2026 (Booker).
 
