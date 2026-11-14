@@ -34,4 +34,4 @@ Görsel URL'si: `https://raw.githubusercontent.com/aygungulcan96-netizen/blackar
 - Odak Türk yayıncılık/edebiyat; dünya edebiyatından büyük haberler de olabilir.
 - Her olgu en az bir güvenilir kaynakla doğrulanır; tarihi belirsiz haber kullanılmaz. Kartın altına "Kaynak: …" yazılır.
 - Kategori etiketleri: ÖDÜL, YENİ KİTAP, ÇEVİRİ, YIL DÖNÜMÜ, ANMA, FUAR, FESTİVAL, SEKTÖR, SÖYLEŞİ.
-- Açıklama: kancayla başlar, 2 kısa paragraf, takipçiye soru, 5-8 hashtag (#EdebiyatGündemi sabit). Uzun alıntı yok.
+- Açıklama: kancayla başlar, 2 kısa paragraf, takipçiye soru, sonra 10-14 hashtag. Amaç olabildiğince geniş kitleye erişmek: konuya özel etiketler (kişi, eser, ödül, etkinlik adları ve bunların yaygın yazılışları) + geniş kitle etiketleri (#Kitap #Bookstagram #KitapKurdu #KitapÖnerisi #Edebiyat #TürkEdebiyatı) + sabit #EdebiyatGündemi. Uzun alıntı yok.
