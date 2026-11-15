@@ -11,8 +11,8 @@
         "https://istanbulkitapfuari.com/en/faq"
       ],
       "onay": true,
-      "paylasildi": false,
-      "media_id": null,
+      "paylasildi": true,
+      "media_id": "17908291344670520",
       "hikaye_paylasildi": false
     }
   ]
