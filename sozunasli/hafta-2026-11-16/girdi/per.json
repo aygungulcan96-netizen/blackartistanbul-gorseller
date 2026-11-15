@@ -1,0 +1,107 @@
+{
+ "id": "per",
+ "no": "006",
+ "kelime": "yasak",
+ "tur": "isim · izin verilmeyen şey<style>.tur{margin-top:40px}</style>",
+ "eski": "yasaq",
+ "dil1": "MOĞOLCA",
+ "dil2": "TÜRKÇE",
+ "teaser": "Her gün duyduğumuz bu kelime, bir imparatorluğun kanunundan geliyor.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "per_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "per_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "Cengiz Han'ın kanunu",
+   "metin": "Moğolca <em>yasaq</em>: “kanun, buyruk”; özellikle Cengiz Han'ın koyduğu kanun.",
+   "not": "Kardeşi <em>yasa</em> da bugün “kanun” anlamında."
+  },
+  {
+   "tip": "metin",
+   "ad": "per_sabah_3",
+   "etiket": "KÖKÜN KÖKÜ",
+   "sayfa": "3 / 5",
+   "baslik": "Gidip gelen kelime",
+   "metin": "Bazı etimologlara göre Moğolca kelimenin kökü de <em>Türkçe</em> olabilir.",
+   "not": "Yani kelime Türkçeden çıkıp Moğolca üzerinden geri dönmüş olabilir."
+  },
+  {
+   "tip": "metin",
+   "ad": "per_sabah_4",
+   "etiket": "BUGÜN",
+   "sayfa": "4 / 5",
+   "baslik": "Kanundan yasağa",
+   "metin": "Bugün en çok <em>“izin verilmeyen şey”</em> anlamında. Bir de deyimi var: <em>yasak savmak</em>.",
+   "not": "Deyimin aslı bu akşam 19:30'da."
+  },
+  {
+   "tip": "metin",
+   "ad": "per_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: B, Moğolca",
+   "metin": "Ne Arapça ne Farsça: <em>yasak</em>, Moğolca <em>yasaq</em>'tan geldi.",
+   "not": "Moğolcadan gelen başka bir kelime biliyor musun? Yaz.",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "per_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "<i>Kardeş</i> kelimesinin içinde hangi kelime saklı?",
+   "kelime": "kardeş",
+   "secenekler": [
+    [
+     "A",
+     "kar"
+    ],
+    [
+     "B",
+     "karın"
+    ],
+    [
+     "C",
+     "kardan"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide."
+  },
+  {
+   "tip": "metin",
+   "etiket": "DEYİMİN ASLI",
+   "sayfa": "",
+   "baslik": "Yasak savmak",
+   "metin": "<em>yasak</em>: buyruk, kural<br><em>savmak</em>: savuşturmak, geçiştirmek",
+   "sag": "KULLANIR MISIN? ↓",
+   "ad": "per_aksam",
+   "not": "TDK'ya göre anlamı: bir işi gönülsüz ve üstünkörü yapmak; ya da bir şeyin şimdilik işe yaraması."
+  },
+  {
+   "tip": "story",
+   "ad": "per_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "Moğolcada <i>yasaq</i> ne demekti?",
+   "secenekler": [
+    [
+     "A",
+     "Engel"
+    ],
+    [
+     "B",
+     "Kanun, buyruk"
+    ],
+    [
+     "C",
+     "Ceza"
+    ]
+   ],
+   "dogru": "B",
+   "alt": "Yasağın hikâyesi profilde ↑"
+  }
+ ]
+}

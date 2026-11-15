@@ -1,0 +1,106 @@
+{
+ "id": "car",
+ "no": "005",
+ "kelime": "kanepe",
+ "tur": "isim · oturma mobilyası",
+ "eski": "canapé",
+ "dil1": "FRANSIZCA",
+ "dil2": "TÜRKÇE",
+ "teaser": "Salondaki kanepenin adında bir sivrisinek saklı.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "car_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "car_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "Uzun bir yol",
+   "metin": "Türkçeye Fransızca <em>canapé</em>'den geçti. Fransızcaya Latinceden, Latinceye de <em>Yunancadan</em>.",
+   "not": "Türkçede ilk kaydı 1851'de."
+  },
+  {
+   "tip": "metin",
+   "ad": "car_sabah_3",
+   "etiket": "SİVRİSİNEK",
+   "sayfa": "3 / 5",
+   "baslik": "Kōnōps",
+   "metin": "Yunanca <em>kōnōps</em>, “sivrisinek”. <em>kōnōpeion</em> ise sivrisinekten koruyan perde: <em>cibinlik</em>."
+  },
+  {
+   "tip": "metin",
+   "ad": "car_sabah_4",
+   "etiket": "YOLCULUK",
+   "sayfa": "4 / 5",
+   "baslik": "Cibinlikten salona",
+   "metin": "Kelime zamanla cibinlikli yataktan <em>oturma mobilyasına</em> kaydı.",
+   "not": "Perde gitti, sivrisinek gitti; ad salonda kaldı."
+  },
+  {
+   "tip": "metin",
+   "ad": "car_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: A, cibinlik",
+   "metin": "Kanepenin atası bir <em>cibinlik</em>, yani sivrisinek perdesiydi.",
+   "not": "Evindeki hangi eşyanın kökünü merak ediyorsun? Yaz.",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "car_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "Sence bu kelime hangi dilden geliyor?",
+   "kelime": "yasak",
+   "secenekler": [
+    [
+     "A",
+     "Arapça"
+    ],
+    [
+     "B",
+     "Moğolca"
+    ],
+    [
+     "C",
+     "Farsça"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide."
+  },
+  {
+   "tip": "metin",
+   "etiket": "YANLIŞ BİLİNENLER",
+   "sayfa": "",
+   "baslik": "Merhaba ne demek?",
+   "metin": "Arapça <em>marḥaban</em>: “genişlik, ferahlık” kökünden. Gelene <em>“geniş ve rahat bir yere geldin”</em> demek.",
+   "sag": "BİLİYOR MUYDUN? ↓",
+   "ad": "car_aksam",
+   "not": "Sık duyulan “senden bana zarar gelmez” açıklaması etimoloji sözlüklerinde yer almıyor."
+  },
+  {
+   "tip": "story",
+   "ad": "car_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Kanepe</i>'nin Yunanca kökünde hangi hayvan var?",
+   "secenekler": [
+    [
+     "A",
+     "Sivrisinek"
+    ],
+    [
+     "B",
+     "Kedi"
+    ],
+    [
+     "C",
+     "Kuş"
+    ]
+   ],
+   "dogru": "A",
+   "alt": "Kanepenin hikâyesi profilde ↑"
+  }
+ ]
+}

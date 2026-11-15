@@ -1,0 +1,121 @@
+{
+ "id": "cmt",
+ "no": "008",
+ "kelime": "maydanoz",
+ "tur": "isim · yeşillik<style>.word{font-size:176px;letter-spacing:-3px}</style>",
+ "eski": "makedonísi",
+ "dil1": "RUMCA",
+ "dil2": "TÜRKÇE",
+ "teaser": "Mutfağın en sıradan yeşilliği, adını bir ülkeden alıyor.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "cmt_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "cmt_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "Makedonya otu",
+   "metin": "Orta Yunanca <em>makedonísi</em>: <em>“Makedonya otu”</em>."
+  },
+  {
+   "tip": "metin",
+   "ad": "cmt_sabah_3",
+   "etiket": "YOLCULUK",
+   "sayfa": "3 / 5",
+   "baslik": "Arapça üzerinden",
+   "metin": "Türkçeye doğrudan değil, Arapça <em>maḳdanus</em> biçimiyle geçti.",
+   "not": "İlk kaydı 1300 civarı, Codex Cumanicus'ta: <em>mağdenos</em>."
+  },
+  {
+   "tip": "metin",
+   "ad": "cmt_sabah_4",
+   "etiket": "BU HAFTA",
+   "sayfa": "4 / 5",
+   "baslik": "Yer adından kelimeler",
+   "metin": "<em>maydanoz</em>: Makedonya<br><em>kravat</em>: Hırvatlar<br><em>turkuaz</em>: Türkler"
+  },
+  {
+   "tip": "metin",
+   "ad": "cmt_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: A, bir bölge",
+   "metin": "<em>Maydanoz</em>, adını Makedonya'dan alıyor.",
+   "not": "Mutfaktaki hangi kelimeyi merak ediyorsun? Yaz.",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "cmt_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "<i>Pazartesi</i> aslında ne demek?",
+   "kelime": "pazartesi",
+   "secenekler": [
+    [
+     "A",
+     "Pazardan sonraki gün"
+    ],
+    [
+     "B",
+     "Haftanın başı"
+    ],
+    [
+     "C",
+     "Çarşı günü"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide."
+  },
+  {
+   "tip": "soru",
+   "etiket": "HAFTANIN BÜYÜK QUIZ'İ",
+   "sayfa": "",
+   "baslik": "Biri Fransızcadan gelmedi",
+   "metin": "Hangisi?",
+   "secenekler": [
+    [
+     "A",
+     "kravat"
+    ],
+    [
+     "B",
+     "kanepe"
+    ],
+    [
+     "C",
+     "otobüs"
+    ],
+    [
+     "D",
+     "maydanoz"
+    ]
+   ],
+   "ad": "cmt_aksam"
+  },
+  {
+   "tip": "story",
+   "ad": "cmt_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Maydanoz</i> ne demek?",
+   "secenekler": [
+    [
+     "A",
+     "Makedonya otu"
+    ],
+    [
+     "B",
+     "Acı ot"
+    ],
+    [
+     "C",
+     "Yeşil yaprak"
+    ]
+   ],
+   "dogru": "A",
+   "alt": "Maydanozun hikâyesi profilde ↑"
+  }
+ ]
+}

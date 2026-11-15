@@ -1,0 +1,106 @@
+{
+ "id": "paz",
+ "no": "009",
+ "kelime": "pazartesi",
+ "tur": "isim · haftanın ilk iş günü<style>.word{font-size:160px;letter-spacing:-3px}.tur{margin-top:34px}</style>",
+ "eski": "pazar ertesi",
+ "dil1": "İKİ KELİME",
+ "dil2": "TEK KELİME",
+ "teaser": "Haftanın en sevilmeyen gününün adı, aslında bir tarif.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "paz_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "paz_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "pazar + ertesi",
+   "metin": "<em>pazar</em>: Farsça <em>bāzār</em>, “çarşı”.<br><em>ertesi</em>: Türkçe, “sonraki”.",
+   "not": "Pazartesi: pazardan sonraki gün."
+  },
+  {
+   "tip": "metin",
+   "ad": "paz_sabah_3",
+   "etiket": "PAZAR",
+   "sayfa": "3 / 5",
+   "baslik": "Çarşıdan güne",
+   "metin": "Gün adı da Farsça “çarşı” sözcüğünden. 1300'de Codex Cumanicus'ta <em>bazar</em> hem çarşı hem pazar günü.",
+   "not": "Pazar günü, çarşı günüyle ilişkilendirilir."
+  },
+  {
+   "tip": "metin",
+   "ad": "paz_sabah_4",
+   "etiket": "ERTESİ",
+   "sayfa": "4 / 5",
+   "baslik": "Sabahın kökü",
+   "metin": "<em>ertesi</em>, Eski Türkçe <em>erte</em> “sabah” sözcüğünden. Kökünde “erken” anlamındaki <em>ér</em> var."
+  },
+  {
+   "tip": "metin",
+   "ad": "paz_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: A, pazar ertesi",
+   "metin": "<em>Pazartesi</em>, kelimenin tam anlamıyla <em>pazardan sonraki gün</em>.",
+   "not": "Yarın yeni hafta, yeni kelimeler. Takipte kal.",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "paz_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "Sence bu kelime hangi dilden geliyor?",
+   "kelime": "çay",
+   "secenekler": [
+    [
+     "A",
+     "Çince"
+    ],
+    [
+     "B",
+     "Hintçe"
+    ],
+    [
+     "C",
+     "Japonca"
+    ]
+   ],
+   "alt": "Cevap pazartesi sabahı, yeni gönderide."
+  },
+  {
+   "tip": "metin",
+   "etiket": "HAFTANIN ÖZETİ",
+   "sayfa": "16–22 KASIM",
+   "baslik": "Bu haftanın 14 kelimesi",
+   "metin": "<div style=\"display:grid;grid-template-columns:1fr 1fr;column-gap:40px;font-size:36px;line-height:1.55\"><div><em>lokanta</em> İtalyanca<br><em>kravat</em> Fransızca<br><em>kanepe</em> Yunanca<br><em>yasak</em> Moğolca<br><em>kardeş</em> Türkçe<br><em>maydanoz</em> Rumca<br><em>pazartesi</em> Farsça+Tr</div><div><em>otobüs</em> Fransızca<br><em>pancar</em> Ermenice<br><em>fener</em> Rumca<br><em>terlik</em> Türkçe<br><em>macera</em> Arapça<br><em>kayık</em> Türkçe<br><em>karpuz</em> Farsça</div></div>",
+   "sag": "KAYDET ✦",
+   "ad": "paz_aksam",
+   "not": "Hangisi seni en çok şaşırttı?"
+  },
+  {
+   "tip": "story",
+   "ad": "paz_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Pazartesi</i>'deki <i>pazar</i> hangi dilden?",
+   "secenekler": [
+    [
+     "A",
+     "Farsça"
+    ],
+    [
+     "B",
+     "Arapça"
+    ],
+    [
+     "C",
+     "Rumca"
+    ]
+   ],
+   "dogru": "A",
+   "alt": "Pazartesinin hikâyesi profilde ↑"
+  }
+ ]
+}

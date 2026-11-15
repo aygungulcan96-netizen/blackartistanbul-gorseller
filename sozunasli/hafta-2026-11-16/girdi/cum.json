@@ -1,0 +1,107 @@
+{
+ "id": "cum",
+ "no": "007",
+ "kelime": "kardeş",
+ "tur": "isim · aynı anneden doğan",
+ "eski": "karındaş",
+ "dil1": "ESKİ TÜRKÇE",
+ "dil2": "TÜRKÇE",
+ "teaser": "Bu kelimenin içinde bir beden parçası saklı.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "cum_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "cum_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "karın + daş",
+   "metin": "Eski Türkçe <em>karındaş</em>: <em>karın</em> ve <em>-daş</em> eki. “Aynı karından doğan.”",
+   "not": "Etimologlar bu açıklamayı güçlü bir olasılık olarak veriyor."
+  },
+  {
+   "tip": "metin",
+   "ad": "cum_sabah_3",
+   "etiket": "EKİN AİLESİ",
+   "sayfa": "3 / 5",
+   "baslik": "-daş hâlâ iş başında",
+   "metin": "<em>arkadaş</em> · <em>sırdaş</em><br><em>yoldaş</em> · <em>vatandaş</em>",
+   "not": "Hepsinde aynı ek: bir şeyi paylaşan."
+  },
+  {
+   "tip": "metin",
+   "ad": "cum_sabah_4",
+   "etiket": "ESKİ KAYIT",
+   "sayfa": "4 / 5",
+   "baslik": "Bin yıllık kelime",
+   "metin": "Uygurca metinlerde ve 1070'te <em>Divanu Lugati't-Türk</em>'te geçiyor.",
+   "not": "Yaşı neredeyse bin yıl."
+  },
+  {
+   "tip": "metin",
+   "ad": "cum_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: B, karın",
+   "metin": "<em>Kardeş</em>, “aynı karından olan” demek. Kar da kardan da değil.",
+   "not": "Bu gönderiyi kardeşine gönder. 💛",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "cum_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "Maydanoz adını nereden alıyor?",
+   "kelime": "<span style=\"font-size:165px\">maydanoz</span>",
+   "secenekler": [
+    [
+     "A",
+     "Bir bölgeden"
+    ],
+    [
+     "B",
+     "Bir şifacıdan"
+    ],
+    [
+     "C",
+     "Bir tanrıdan"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide."
+  },
+  {
+   "tip": "metin",
+   "etiket": "AYNI KÖKTEN",
+   "sayfa": "",
+   "baslik": "Hepsi “bilmek”ten",
+   "metin": "<em>ilim</em>: bilgi<br><em>âlim</em>: bilen<br><em>muallim</em>: öğreten<br><em>malumat</em>: bilinenler<br><em>alamet</em>: işaret",
+   "sag": "BAŞKA? ↓",
+   "ad": "cum_aksam",
+   "not": "Hepsi Arapçada “bilmek” anlamındaki <b>ayn-l-m</b> kökünden."
+  },
+  {
+   "tip": "story",
+   "ad": "cum_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Kardeş</i>'teki <i>-daş</i> eki hangisinde de var?",
+   "secenekler": [
+    [
+     "A",
+     "arkadaş"
+    ],
+    [
+     "B",
+     "kalem"
+    ],
+    [
+     "C",
+     "kapı"
+    ]
+   ],
+   "dogru": "A",
+   "alt": "Kardeşin hikâyesi profilde ↑"
+  }
+ ]
+}

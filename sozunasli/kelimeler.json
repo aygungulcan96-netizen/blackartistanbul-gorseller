@@ -1,13 +1,131 @@
 {
   "aciklama": "Sözün Aslı kelime kaydı. 'kullanildi': ana konu olarak işlenen kelimeler (carousel/Reels). 'deginildi': quiz veya tema gönderisinde kısaca geçen kelimeler (ana konu olarak yeniden işlenebilir ama aynı bilgiyle tekrar edilmemeli). 'planlandi': takipçilere duyurulmuş, sırası gelmemiş kelimeler. 'havuz': doğrulanmayı bekleyen aday kelimeler.",
   "kullanildi": [
-    {"kelime": "bavul", "tarih": "2026-11-14", "tur": "carousel", "no": "001"},
-    {"kelime": "kitap", "tarih": "2026-11-15", "tur": "carousel", "no": "002"},
-    {"kelime": "dolap", "tarih": "2026-11-15", "tur": "reels", "no": "R01"}
+    {
+      "kelime": "bavul",
+      "tarih": "2026-11-14",
+      "tur": "carousel",
+      "no": "001"
+    },
+    {
+      "kelime": "kitap",
+      "tarih": "2026-11-15",
+      "tur": "carousel",
+      "no": "002"
+    },
+    {
+      "kelime": "dolap",
+      "tarih": "2026-11-15",
+      "tur": "reels",
+      "no": "R01"
+    }
   ],
-  "deginildi": ["valiz", "bahut", "kahve", "iskele", "yoğurt", "palavra", "kâtip", "mektup", "mektep", "kütüphane", "kalem", "köşk"],
+  "deginildi": [
+    "valiz",
+    "bahut",
+    "kahve",
+    "iskele",
+    "yoğurt",
+    "palavra",
+    "kâtip",
+    "mektup",
+    "mektep",
+    "kütüphane",
+    "kalem",
+    "köşk"
+  ],
   "planlandi": [
-    {"kelime": "lokanta", "tarih": "2026-11-16", "tur": "carousel", "not": "15 Kasım 13:00 hikâyesinde duyuruldu: 'Sence hangi dilden? A) Rumca B) İtalyanca C) Fransızca'. Doğru cevap B (İtalyanca locanda 'han, konaklama yeri'); carousel'in son karesi bu cevabı vermeli."}
+    {
+      "kelime": "lokanta",
+      "tarih": "2026-11-16",
+      "tur": "carousel",
+      "not": "15 Kasım 13:00 hikâyesinde duyuruldu: 'Sence hangi dilden? A) Rumca B) İtalyanca C) Fransızca'. Doğru cevap B (İtalyanca locanda 'han, konaklama yeri'); carousel'in son karesi bu cevabı vermeli.",
+      "no": "003"
+    },
+    {
+      "kelime": "kravat",
+      "tarih": "2026-11-17",
+      "tur": "carousel",
+      "no": "004"
+    },
+    {
+      "kelime": "kanepe",
+      "tarih": "2026-11-18",
+      "tur": "carousel",
+      "no": "005"
+    },
+    {
+      "kelime": "yasak",
+      "tarih": "2026-11-19",
+      "tur": "carousel",
+      "no": "006"
+    },
+    {
+      "kelime": "kardeş",
+      "tarih": "2026-11-20",
+      "tur": "carousel",
+      "no": "007"
+    },
+    {
+      "kelime": "maydanoz",
+      "tarih": "2026-11-21",
+      "tur": "carousel",
+      "no": "008"
+    },
+    {
+      "kelime": "pazartesi",
+      "tarih": "2026-11-22",
+      "tur": "carousel",
+      "no": "009"
+    },
+    {
+      "kelime": "otobüs",
+      "tarih": "2026-11-16",
+      "tur": "reels",
+      "no": "R02"
+    },
+    {
+      "kelime": "pancar",
+      "tarih": "2026-11-17",
+      "tur": "reels",
+      "no": "R03"
+    },
+    {
+      "kelime": "fener",
+      "tarih": "2026-11-18",
+      "tur": "reels",
+      "no": "R04"
+    },
+    {
+      "kelime": "terlik",
+      "tarih": "2026-11-19",
+      "tur": "reels",
+      "no": "R05"
+    },
+    {
+      "kelime": "macera",
+      "tarih": "2026-11-20",
+      "tur": "reels",
+      "no": "R06"
+    },
+    {
+      "kelime": "kayık",
+      "tarih": "2026-11-21",
+      "tur": "reels",
+      "no": "R07"
+    },
+    {
+      "kelime": "karpuz",
+      "tarih": "2026-11-22",
+      "tur": "reels",
+      "no": "R08"
+    },
+    {
+      "kelime": "çay",
+      "tarih": "2026-11-23",
+      "tur": "carousel",
+      "not": "22 Kasım 13:00 hikâyesinde duyurulacak: 'Sence bu kelime hangi dilden geliyor? A) Çince B) Hintçe C) Japonca'. Doğru cevap A (Çince chá; Türkçeye Farsça çāy aracılığıyla geçti). Carousel'in son karesi bu cevabı vermeli. Kaynaklar: https://www.nisanyansozluk.com/kelime/%C3%A7ay , https://www.etimolojiturkce.com/kelime/%C3%A7ay1/"
+    }
   ],
   "havuz": []
 }

@@ -1,0 +1,106 @@
+{
+ "id": "sal",
+ "no": "004",
+ "kelime": "kravat",
+ "tur": "isim · boyun bağı",
+ "eski": "cravate",
+ "dil1": "FRANSIZCA",
+ "dil2": "TÜRKÇE",
+ "teaser": "Boynumuza bağladığımız bu kumaş, adını bir halktan alıyor.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "sal_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "sal_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "“Hırvat”",
+   "metin": "Fransızca <em>cravate</em>, aslında <em>Croate</em> sözcüğünden: <em>“Hırvat”</em>.",
+   "not": "Bir giysiye bir halkın adı verilmiş."
+  },
+  {
+   "tip": "metin",
+   "ad": "sal_sabah_3",
+   "etiket": "HİKÂYESİ",
+   "sayfa": "3 / 5",
+   "baslik": "Askerlerin atkısı",
+   "metin": "1600'lerde Fransız ordusundaki <em>Hırvat askerler</em> boyunlarına bir atkı bağlıyordu. Atkı, onların adıyla anıldı.",
+   "not": "Otuz Yıl Savaşları (1618–1648) yıllarında."
+  },
+  {
+   "tip": "metin",
+   "ad": "sal_sabah_4",
+   "etiket": "TÜRKÇEDE",
+   "sayfa": "4 / 5",
+   "baslik": "1899'dan beri",
+   "metin": "Türkçede bilinen ilk yazılı kaydı 1899'da. Yanında Türkçe bir adı da var: <em>boyun bağı</em>."
+  },
+  {
+   "tip": "metin",
+   "ad": "sal_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: B, Hırvatlar",
+   "metin": "Ne bir terzi ne bir kral: <em>kravat</em>, adını <em>Hırvat</em> askerlerinden aldı.",
+   "not": "Sence en şık kökenli kelime hangisi? Yorumlara yaz.",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "sal_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "Kanepe'nin atası neydi?",
+   "kelime": "kanepe",
+   "secenekler": [
+    [
+     "A",
+     "Bir cibinlik"
+    ],
+    [
+     "B",
+     "Bir at arabası"
+    ],
+    [
+     "C",
+     "Bir sandık"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide."
+  },
+  {
+   "tip": "metin",
+   "etiket": "GÖÇMEN KELİMELER",
+   "sayfa": "",
+   "baslik": "Türkçe yoluyla dünyaya",
+   "metin": "<em>tülbent</em> ⟶ tulip<br><em>Türk taşı</em> ⟶ turquoise<br><em>balkan</em> ⟶ Balkan",
+   "sag": "BAŞKA BİLEN? ↓",
+   "ad": "sal_aksam",
+   "not": "Lale, sarığa benzetildiği için <b>tülbent</b>ten adını aldı. Turkuaz taşı Avrupa'ya Türk toprakları üzerinden ulaştı. <b>Balkan</b> Türkçede “sıradağ” demek."
+  },
+  {
+   "tip": "story",
+   "ad": "sal_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Kravat</i> hangi kelimeden geliyor?",
+   "secenekler": [
+    [
+     "A",
+     "İtalyan"
+    ],
+    [
+     "B",
+     "Hırvat"
+    ],
+    [
+     "C",
+     "Fransız"
+    ]
+   ],
+   "dogru": "B",
+   "alt": "Kravatın hikâyesi profilde ↑"
+  }
+ ]
+}

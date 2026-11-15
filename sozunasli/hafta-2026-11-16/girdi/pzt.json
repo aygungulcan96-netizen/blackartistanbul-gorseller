@@ -1,0 +1,123 @@
+{
+ "id": "pzt",
+ "no": "003",
+ "kelime": "lokanta",
+ "tur": "isim · yemek yenen yer",
+ "eski": "locanda",
+ "dil1": "İTALYANCA",
+ "dil2": "TÜRKÇE",
+ "teaser": "Bugün yemek yediğimiz yer, ilk başta geceyi geçirdiğimiz yerdi.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "pzt_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "pzt_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "Bir han",
+   "metin": "İtalyanca <em>locanda</em>, yolcuların yemek yiyip geceleyebildiği <em>konaklama yeri</em>, yani han demekti.",
+   "not": "Dibinde Latince kökenli <em>locare</em> var: “kiralamak”."
+  },
+  {
+   "tip": "metin",
+   "ad": "pzt_sabah_3",
+   "etiket": "TÜRKÇEDE",
+   "sayfa": "3 / 5",
+   "baslik": "Handan sofraya",
+   "metin": "İlk yazılı kaydı 1876'da, <em>lokanda</em> biçiminde. Bugün ise yalnızca <em>yemek yenen yer</em> anlamında.",
+   "not": "Oda gitti, mutfak kaldı."
+  },
+  {
+   "tip": "metin",
+   "ad": "pzt_sabah_4",
+   "etiket": "BONUS",
+   "sayfa": "4 / 5",
+   "baslik": "Masa da İtalyan",
+   "metin": "Lokantada oturduğun <em>masa</em> da İtalyancadan geldi: <em>mensa</em>.",
+   "not": "Masa ve lokanta, aynı dilden iki komşu."
+  },
+  {
+   "tip": "metin",
+   "ad": "pzt_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: B, İtalyanca",
+   "metin": "Ne Rumca ne Fransızca: <em>lokanta</em>, İtalyanca <em>locanda</em>'dan geldi.",
+   "not": "Kökünü merak ettiğin kelimeyi yorumlara yaz.",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "pzt_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "Kravat adını nereden alıyor?",
+   "kelime": "kravat",
+   "secenekler": [
+    [
+     "A",
+     "Bir terziden"
+    ],
+    [
+     "B",
+     "Hırvat askerlerinden"
+    ],
+    [
+     "C",
+     "Bir Fransız kraldan"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide."
+  },
+  {
+   "tip": "soru",
+   "etiket": "HANGİSİ TÜRKÇE?",
+   "sayfa": "",
+   "baslik": "Yalnızca biri Türkçe",
+   "metin": "Dördü de evimizde. Hangisi aslen Türkçe?",
+   "secenekler": [
+    [
+     "A",
+     "tabak"
+    ],
+    [
+     "B",
+     "masa"
+    ],
+    [
+     "C",
+     "kapı"
+    ],
+    [
+     "D",
+     "fincan"
+    ]
+   ],
+   "ad": "pzt_aksam"
+  },
+  {
+   "tip": "story",
+   "ad": "pzt_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Lokanta</i>'nın İtalyancadaki ilk anlamı neydi?",
+   "secenekler": [
+    [
+     "A",
+     "Mutfak"
+    ],
+    [
+     "B",
+     "Han, konaklama yeri"
+    ],
+    [
+     "C",
+     "Pazar yeri"
+    ]
+   ],
+   "dogru": "B",
+   "alt": "Lokantanın hikâyesi profilde ↑"
+  }
+ ]
+}
