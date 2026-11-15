@@ -13,7 +13,8 @@ Her gün 12:00'de (Europe/Istanbul) @sozunasli_ hesabında bir Reels yayınlanı
 - Yapı (4 sahne, ~22,5 sn): 1) merak kancası + büyük kelime, 2) köken (kaynak dil → Türkçe) ve ilk anlam, 3) bugün dilde kalan izler / şaşırtıcı bağlantı, 4) "Kökü seni şaşırtan başka hangi kelime var? Yorumlara yaz" + hesap.
 - Süre 20–25 sn. Her satır en az ~2,5 sn okunur kalmalı (Can daha hızlısını "çok hızlı" buldu).
 - İçerik alt ~450 px'e ve sağ kenara girmemeli (Instagram arayüzü kapatır).
-- Kelime: o günün karusel/akış gönderisindeki ve önceki Reels'lerdeki kelimelerden farklı olmalı (sozunasli/gunNN görsellerine ve plan.json'a bak).
+- Kelime: `sozunasli/kelimeler.json`'daki kullanılmış kelimelerden ve aynı haftanın carousel kelimelerinden farklı olmalı.
+- 15 Kasım 2026'dan itibaren Reels'ler haftalık paketle hazırlanır ve `sozunasli/hafta-*/plan.json` üzerinden paylaşılır (bkz. `sozunasli/README.md`). Bu klasördeki `plan.json` yalnızca R01 kaydı için tutuluyor; yeni kayıtlar haftalık plana yazılır.
 - Köken en az iki güvenilir kaynakla (TDK, Nişanyan, akademik makale) doğrulanır; tartışmalıysa ihtiyatlı ifade edilir. Doğrulanamayan kelime kullanılmaz.
 - Hesap sahibinden veya kitaplarından söz edilmez. Fotoğraf kullanılmaz; yalnızca tipografi ve basit çizimler.
 - Paylaşım yalnızca Can'ın onayladığı (onay:true) kayıtla yapılır.

@@ -1,0 +1,13 @@
+{
+  "aciklama": "Sözün Aslı kelime kaydı. 'kullanildi': ana konu olarak işlenen kelimeler (carousel/Reels). 'deginildi': quiz veya tema gönderisinde kısaca geçen kelimeler (ana konu olarak yeniden işlenebilir ama aynı bilgiyle tekrar edilmemeli). 'planlandi': takipçilere duyurulmuş, sırası gelmemiş kelimeler. 'havuz': doğrulanmayı bekleyen aday kelimeler.",
+  "kullanildi": [
+    {"kelime": "bavul", "tarih": "2026-11-14", "tur": "carousel", "no": "001"},
+    {"kelime": "kitap", "tarih": "2026-11-15", "tur": "carousel", "no": "002"},
+    {"kelime": "dolap", "tarih": "2026-11-15", "tur": "reels", "no": "R01"}
+  ],
+  "deginildi": ["valiz", "bahut", "kahve", "iskele", "yoğurt", "palavra", "kâtip", "mektup", "mektep", "kütüphane", "kalem", "köşk"],
+  "planlandi": [
+    {"kelime": "lokanta", "tarih": "2026-11-16", "tur": "carousel", "not": "15 Kasım 13:00 hikâyesinde duyuruldu: 'Sence hangi dilden? A) Rumca B) İtalyanca C) Fransızca'. Doğru cevap B (İtalyanca locanda 'han, konaklama yeri'); carousel'in son karesi bu cevabı vermeli."}
+  ],
+  "havuz": []
+}

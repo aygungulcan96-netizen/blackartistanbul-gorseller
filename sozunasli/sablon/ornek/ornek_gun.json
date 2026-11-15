@@ -1,0 +1,103 @@
+{
+ "id": "gun02",
+ "no": "002",
+ "kelime": "kitap",
+ "tur": "isim · yazılı eser",
+ "eski": "kitāb",
+ "dil1": "ARAPÇA",
+ "dil2": "TÜRKÇE",
+ "teaser": "Üç harflik bir kökten bir kelime ailesi doğdu. Muhtemelen hepsini her gün kullanıyorsun.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "02_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "02_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "Üç harf: k · t · b",
+   "metin": "Arapçada kelimeler çoğunlukla üç ünsüzlü köklerden türer. <em>k-t-b</em> kökünün anlamı <em>“yazmak”</em>.",
+   "not": "Ünlüler değişir, kalıp değişir, ama kökü taşıyan bu üç ünsüz hep yerinde kalır."
+  },
+  {
+   "tip": "metin",
+   "ad": "02_sabah_3",
+   "etiket": "AİLE",
+   "sayfa": "3 / 5",
+   "baslik": "Hepsi aynı evden",
+   "metin": "<em>kitap</em>: yazılan şey<br><em>kâtip</em>: yazan kişi<br><em>mektup</em>: yazılmış olan<br><em>mektep</em>: yazı yeri, okul"
+  },
+  {
+   "tip": "metin",
+   "ad": "02_sabah_4",
+   "etiket": "BONUS",
+   "sayfa": "4 / 5",
+   "baslik": "Kütüphane: kitapların evi",
+   "metin": "<em>kütüp</em>, Arapçada “kitaplar” demek; kitabın çoğulu. <em>hane</em> ise Farsçada “ev”. İki dil birleşmiş, ortaya kelimenin tam anlamıyla bir kitap evi çıkmış."
+  },
+  {
+   "tip": "metin",
+   "ad": "02_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Kalem bu aileden değil",
+   "metin": "<em>kalem</em> Arapçaya Yunanca <em>kalamos</em>'tan, yani “kamış”tan geçti. İlk kalemler kamıştan yontulurdu.",
+   "not": "Yazının aletini Yunanca, yazının kendisini Arapça kökten söylüyoruz.",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "02_hikaye_2_aksam",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Kütüphane</i> kelimesi tam olarak ne demek?",
+   "secenekler": [
+    [
+     "A",
+     "Okuma salonu"
+    ],
+    [
+     "B",
+     "Kitapların evi"
+    ],
+    [
+     "C",
+     "Yazı masası"
+    ]
+   ],
+   "dogru": "B",
+   "alt": "Kitabın hikâyesi profilde ↑"
+  },
+  {
+   "tip": "story",
+   "ad": "yazar_hesabi_hikaye",
+   "etiket": "TEK KÖK, BEŞ KELİME",
+   "kelime": "k · t · b",
+   "soru": "kitap · kâtip · mektup<br>mektep · kütüphane",
+   "alt": "Hepsi “yazmak” kökünden.<br>Hikâyesi @sozunasli_ hesabında."
+  },
+  {
+   "tip": "story",
+   "ad": "02_hikaye_1_ogle",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "Sence bu kelime hangi dilden geliyor?",
+   "kelime": "lokanta",
+   "secenekler": [
+    [
+     "A",
+     "Rumca"
+    ],
+    [
+     "B",
+     "İtalyanca"
+    ],
+    [
+     "C",
+     "Fransızca"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide."
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+/* Sözün Aslı — görsel kimlik */
+@font-face{font-family:PF;font-weight:400;font-style:normal;src:url(playfair-display-latin-400-normal.woff)}
+@font-face{font-family:PF;font-weight:400;font-style:normal;src:url(playfair-display-latin-ext-400-normal.woff);unicode-range:U+0100-02AF,U+1E00-1EFF}
+@font-face{font-family:PF;font-weight:400;font-style:italic;src:url(playfair-display-latin-400-italic.woff)}
+@font-face{font-family:PF;font-weight:400;font-style:italic;src:url(playfair-display-latin-ext-400-italic.woff);unicode-range:U+0100-02AF,U+1E00-1EFF}
+@font-face{font-family:PF;font-weight:700;font-style:normal;src:url(playfair-display-latin-700-normal.woff)}
+@font-face{font-family:PF;font-weight:700;font-style:normal;src:url(playfair-display-latin-ext-700-normal.woff);unicode-range:U+0100-02AF,U+1E00-1EFF}
+@font-face{font-family:PF;font-weight:700;font-style:italic;src:url(playfair-display-latin-700-italic.woff)}
+@font-face{font-family:PF;font-weight:700;font-style:italic;src:url(playfair-display-latin-ext-700-italic.woff);unicode-range:U+0100-02AF,U+1E00-1EFF}
+@font-face{font-family:PF;font-weight:900;font-style:normal;src:url(playfair-display-latin-900-normal.woff)}
+@font-face{font-family:PF;font-weight:900;font-style:normal;src:url(playfair-display-latin-ext-900-normal.woff);unicode-range:U+0100-02AF,U+1E00-1EFF}
+@font-face{font-family:PF;font-weight:900;font-style:italic;src:url(playfair-display-latin-900-italic.woff)}
+@font-face{font-family:PF;font-weight:900;font-style:italic;src:url(playfair-display-latin-ext-900-italic.woff);unicode-range:U+0100-02AF,U+1E00-1EFF}
+@font-face{font-family:IN;font-weight:400;src:url(inter-latin-400-normal.woff)}
+@font-face{font-family:IN;font-weight:400;src:url(inter-latin-ext-400-normal.woff);unicode-range:U+0100-02AF,U+1E00-1EFF}
+@font-face{font-family:IN;font-weight:500;src:url(inter-latin-500-normal.woff)}
+@font-face{font-family:IN;font-weight:500;src:url(inter-latin-ext-500-normal.woff);unicode-range:U+0100-02AF,U+1E00-1EFF}
+@font-face{font-family:IN;font-weight:700;src:url(inter-latin-700-normal.woff)}
+@font-face{font-family:IN;font-weight:700;src:url(inter-latin-ext-700-normal.woff);unicode-range:U+0100-02AF,U+1E00-1EFF}
+:root{--kagit:#F2EBDD;--murekkep:#1F2A44;--kiremit:#B5523B;--altin:#C9A55C;--soluk:#7A7466}
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;background:var(--kagit);color:var(--murekkep);font-family:IN;overflow:hidden;position:relative}
+.grain{position:absolute;inset:0;opacity:.06;background-image:radial-gradient(#000 1px,transparent 1px);background-size:5px 5px;pointer-events:none}
