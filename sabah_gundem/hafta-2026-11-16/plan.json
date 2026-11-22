@@ -87,8 +87,8 @@
         "https://www.aksiyon.com.tr/hikayenin-birlestirdigi-sahne-bursa-uluslararasi-edebiyat-festivali-programi-aciklandi-389961"
       ],
       "onay": true,
-      "paylasildi": false,
-      "media_id": null,
+      "paylasildi": true,
+      "media_id": "18117758708622440",
       "hikaye_paylasildi": false
     }
   ]
