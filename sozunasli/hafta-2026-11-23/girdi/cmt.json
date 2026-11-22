@@ -1,0 +1,122 @@
+{
+ "id": "cmt",
+ "no": "015",
+ "kelime": "domates",
+ "tur": "isim · sebze<style>.word{font-size:210px;letter-spacing:-3px}</style>",
+ "eski": "tomatl",
+ "dil1": "NAHUATL",
+ "dil2": "TÜRKÇE",
+ "teaser": "Salatanın vazgeçilmezi, adını okyanusun öbür yakasından getirdi.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "cmt_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "cmt_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "Aztek dilinden",
+   "metin": "Nahuatl <em>tomatl</em>: “yumru”, şişkin meyve.",
+   "not": "Nahuatl: Aztek İmparatorluğu'nun dili."
+  },
+  {
+   "tip": "metin",
+   "ad": "cmt_sabah_3",
+   "etiket": "YOLCULUK",
+   "sayfa": "3 / 5",
+   "baslik": "Dört dil, bir domates",
+   "metin": "İspanyolca ⟶ Fransızca <em>tomate</em> ⟶ Yunanca <em>tomátes</em> ⟶ Türkçe <em>domates</em>."
+  },
+  {
+   "tip": "metin",
+   "ad": "cmt_sabah_4",
+   "etiket": "TÜRKÇEDE",
+   "sayfa": "4 / 5",
+   "baslik": "Frenk patlıcanı",
+   "metin": "1876 tarihli bir Osmanlı sözlüğü domatesi <em>“Frenk patlıcanı”</em> diye tanımlar.",
+   "not": "Yeni gelen sebzeye, tanıdık bir sebzenin adı."
+  },
+  {
+   "tip": "metin",
+   "ad": "cmt_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: B, Aztek dili",
+   "metin": "<em>Domates</em>, Nahuatl <em>tomatl</em>'dan; Avrupa üzerinden bize ulaştı.",
+   "not": "Pazardaki hangi kelimeyi merak ediyorsun?",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "cmt_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "<i>Şemsiye</i> ilk başta neye karşı açılırdı?",
+   "secenekler": [
+    [
+     "A",
+     "Yağmura"
+    ],
+    [
+     "B",
+     "Güneşe"
+    ],
+    [
+     "C",
+     "Rüzgâra"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide.",
+   "kelime": "şemsiye"
+  },
+  {
+   "tip": "soru",
+   "ad": "cmt_aksam",
+   "etiket": "HAFTANIN BÜYÜK QUIZ'İ",
+   "sayfa": "",
+   "baslik": "Biri İtalyancadan geldi",
+   "metin": "Hangisi?",
+   "secenekler": [
+    [
+     "A",
+     "tuvalet"
+    ],
+    [
+     "B",
+     "fasulye"
+    ],
+    [
+     "C",
+     "berber"
+    ],
+    [
+     "D",
+     "şeker"
+    ]
+   ]
+  },
+  {
+   "tip": "story",
+   "ad": "cmt_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Domates</i> Türkçeye hangi dil üzerinden geldi?",
+   "secenekler": [
+    [
+     "A",
+     "Yunanca"
+    ],
+    [
+     "B",
+     "Arapça"
+    ],
+    [
+     "C",
+     "Almanca"
+    ]
+   ],
+   "alt": "Domatesin hikâyesi profilde ↑",
+   "dogru": "A"
+  }
+ ]
+}

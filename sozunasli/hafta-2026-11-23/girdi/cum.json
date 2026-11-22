@@ -1,0 +1,106 @@
+{
+ "id": "cum",
+ "no": "014",
+ "kelime": "şeker",
+ "tur": "isim · tatlandırıcı",
+ "eski": "śarkarā",
+ "dil1": "SANSKRİTÇE",
+ "dil2": "TÜRKÇE",
+ "teaser": "Tatlının adı, ilk başta küçük taşları anlatıyordu.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "cum_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "cum_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "Çakıl taşı",
+   "metin": "Sanskritçe <em>śarkarā</em>: önce “çakıl taşı”, sonra “kristal şeker”.",
+   "not": "Türkçedeki biçimi Farsça <em>şakar</em>'a çok yakın."
+  },
+  {
+   "tip": "metin",
+   "ad": "cum_sabah_3",
+   "etiket": "DÜNYADA",
+   "sayfa": "3 / 5",
+   "baslik": "Aynı tatlı kök",
+   "metin": "<em>sugar</em> (İng.), <em>sucre</em> (Fr.), <em>zucchero</em> (İt.): hepsi aynı Sanskritçe kelimeden.",
+   "not": "Batıya Arapça yoluyla, İspanya üzerinden geçti."
+  },
+  {
+   "tip": "metin",
+   "ad": "cum_sabah_4",
+   "etiket": "TÜRKÇEDE",
+   "sayfa": "4 / 5",
+   "baslik": "Bir kelime, bir aile",
+   "metin": "<em>şekerleme, şekerci, şekerlik, şekerpare</em>… Hepsi aynı taş parçasından."
+  },
+  {
+   "tip": "metin",
+   "ad": "cum_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: B, Sanskritçe",
+   "metin": "<em>Şeker</em>'in en eski kökü Sanskritçe <em>śarkarā</em>.",
+   "not": "Kökü uzaklara uzanan başka kelime biliyor musun?",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "cum_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "<i>Domates</i> adını hangi dilden alıyor?",
+   "secenekler": [
+    [
+     "A",
+     "İspanyolca"
+    ],
+    [
+     "B",
+     "Aztek dili (Nahuatl)"
+    ],
+    [
+     "C",
+     "İtalyanca"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide.",
+   "kelime": "domates"
+  },
+  {
+   "tip": "metin",
+   "ad": "cum_aksam",
+   "etiket": "AYNI KÖKTEN",
+   "sayfa": "",
+   "baslik": "Tek kök: ḥ-k-m",
+   "metin": "<em>hüküm, hâkim, hikmet,<br>hekim, mahkeme, hükümet</em>",
+   "not": "Arapça kökün anlamı: karar vermek, yönetmek. <em>Hekim</em> ile “bilge” anlamındaki <em>hakîm</em> aynı kelimenin iki biçimi.",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "cum_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Şeker</i>'in Sanskritçedeki ilk anlamı neydi?",
+   "secenekler": [
+    [
+     "A",
+     "Bal"
+    ],
+    [
+     "B",
+     "Çakıl taşı"
+    ],
+    [
+     "C",
+     "Tatlı"
+    ]
+   ],
+   "alt": "Şekerin hikâyesi profilde ↑",
+   "dogru": "B"
+  }
+ ]
+}

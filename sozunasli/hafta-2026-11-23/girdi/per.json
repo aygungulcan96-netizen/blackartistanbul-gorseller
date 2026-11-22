@@ -1,0 +1,107 @@
+{
+ "id": "per",
+ "no": "013",
+ "kelime": "kahvaltı",
+ "tur": "isim · sabah yemeği<style>.word{font-size:200px;letter-spacing:-3px}</style>",
+ "eski": "kahve altı",
+ "dil1": "İKİ KELİME",
+ "dil2": "TEK KELİME",
+ "teaser": "Günün ilk öğününün adında bir içecek saklı.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "per_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "per_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "kahve + altı",
+   "metin": "<em>kahve altı</em>: kahveyle birlikte yenen hafif yemek.",
+   "not": "İki kelime zamanla kaynaştı: <em>kahvaltı</em>."
+  },
+  {
+   "tip": "metin",
+   "ad": "per_sabah_3",
+   "etiket": "BUGÜN",
+   "sayfa": "3 / 5",
+   "baslik": "Çaylı kahvaltı",
+   "metin": "Sofrada çoğu zaman <em>çay</em> var; öğünün adı ise hâlâ <em>kahve</em>den.",
+   "not": "Pazartesinin kelimesini hatırladın mı?"
+  },
+  {
+   "tip": "metin",
+   "ad": "per_sabah_4",
+   "etiket": "SOFRADA",
+   "sayfa": "4 / 5",
+   "baslik": "Göçmenler masası",
+   "metin": "<em>çay</em> Çinceden, <em>şeker</em> Sanskritçeden, <em>domates</em> Aztek dilinden…<br><em>kahvaltı</em> ise yerli.",
+   "not": "Şekerle domatesin hikâyesi bu hafta."
+  },
+  {
+   "tip": "metin",
+   "ad": "per_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: A, kahve",
+   "metin": "<em>Kahvaltı</em>, <em>kahve altı</em>'ndan: kahveyle yenen hafif yemek.",
+   "not": "Sofrandaki hangi kelimeyi merak ediyorsun?",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "per_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "<i>Şeker</i>'in en eski kökü hangi dilde?",
+   "secenekler": [
+    [
+     "A",
+     "Arapça"
+    ],
+    [
+     "B",
+     "Sanskritçe"
+    ],
+    [
+     "C",
+     "Yunanca"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide.",
+   "kelime": "şeker"
+  },
+  {
+   "tip": "metin",
+   "ad": "per_aksam",
+   "etiket": "DEYİMİN ASLI",
+   "sayfa": "",
+   "baslik": "Pabucu dama atılmak",
+   "metin": "Anlamı: daha iyisi çıkınca <em>değerini yitirmek</em>, gözden düşmek.",
+   "not": "Rivayete göre eski esnaf teşkilatında kusurlu iş çıkaran ustanın pabucu, ibret olsun diye dama atılırdı.",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "per_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Kahvaltı</i> ilk başta ne demekti?",
+   "secenekler": [
+    [
+     "A",
+     "Kahveyle yenen hafif yemek"
+    ],
+    [
+     "B",
+     "Sabah duası"
+    ],
+    [
+     "C",
+     "Öğle yemeği"
+    ]
+   ],
+   "alt": "Kahvaltının hikâyesi profilde ↑",
+   "dogru": "A"
+  }
+ ]
+}

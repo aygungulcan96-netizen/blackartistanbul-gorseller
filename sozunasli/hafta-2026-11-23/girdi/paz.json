@@ -1,0 +1,106 @@
+{
+ "id": "paz",
+ "no": "016",
+ "kelime": "şemsiye",
+ "tur": "isim · yağmurluk, güneşlik<style>.word{font-size:210px;letter-spacing:-3px}</style>",
+ "eski": "şamsiyya",
+ "dil1": "ARAPÇA",
+ "dil2": "TÜRKÇE",
+ "teaser": "Yağmurda açtığımız şeyin adı, aslında güneşten geliyor.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "paz_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "paz_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "Güneşlik",
+   "metin": "Arapça <em>şams</em> “güneş” sözcüğünden: <em>şamsiyya</em>, “güneşe ait, güneşlik”."
+  },
+  {
+   "tip": "metin",
+   "ad": "paz_sabah_3",
+   "etiket": "ANLAM",
+   "sayfa": "3 / 5",
+   "baslik": "Güneşten yağmura",
+   "metin": "1876 tarihli bir sözlük onu <em>“güneş veya yağmur siperliği”</em> diye tanımlıyor.",
+   "not": "Bugün aklımıza önce yağmur geliyor."
+  },
+  {
+   "tip": "metin",
+   "ad": "paz_sabah_4",
+   "etiket": "BU HAFTA",
+   "sayfa": "4 / 5",
+   "baslik": "Yedi kelime, yedi dil",
+   "metin": "<em>çay</em>, <em>pijama</em>, <em>tuvalet</em>, <em>kahvaltı</em>, <em>şeker</em>, <em>domates</em>, <em>şemsiye</em>.",
+   "not": "Hangisi seni en çok şaşırttı?"
+  },
+  {
+   "tip": "metin",
+   "ad": "paz_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: B, güneşe",
+   "metin": "<em>Şemsiye</em> ilk başta bir <em>güneşlik</em>ti.",
+   "not": "Yarın yeni hafta, yeni kelimeler. Takipte kal.",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "paz_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "<i>Çarşı</i> aslında ne demek?",
+   "secenekler": [
+    [
+     "A",
+     "Dört taraf"
+    ],
+    [
+     "B",
+     "Kapalı pazar"
+    ],
+    [
+     "C",
+     "Su başı"
+    ]
+   ],
+   "alt": "Cevap pazartesi sabahı, yeni gönderide.",
+   "kelime": "çarşı"
+  },
+  {
+   "tip": "metin",
+   "ad": "paz_aksam",
+   "etiket": "HAFTANIN ÖZETİ",
+   "sayfa": "23–29 KASIM",
+   "baslik": "Bu haftanın 14 kelimesi",
+   "metin": "<div style=\"display:grid;grid-template-columns:1fr 1fr;column-gap:40px;font-size:36px;line-height:1.55\"><div><em>çay</em> Çince<br><em>pijama</em> Farsça<br><em>tuvalet</em> Fransızca<br><em>kahvaltı</em> Türkçe<br><em>şeker</em> Sanskritçe<br><em>domates</em> Aztekçe<br><em>şemsiye</em> Arapça</div><div><em>pastırma</em> Türkçe<br><em>jilet</em> marka adı<br><em>berber</em> İtalyanca<br><em>çorba</em> Farsça<br><em>fasulye</em> Rumca<br><em>sabun</em> Arapça<br><em>kaldırım</em> Türkçe</div></div>",
+   "not": "Hangisi seni en çok şaşırttı?",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "paz_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Şemsiye</i>'nin kökündeki <i>şams</i> ne demek?",
+   "secenekler": [
+    [
+     "A",
+     "Yağmur"
+    ],
+    [
+     "B",
+     "Güneş"
+    ],
+    [
+     "C",
+     "Gölge"
+    ]
+   ],
+   "alt": "Şemsiyenin hikâyesi profilde ↑",
+   "dogru": "B"
+  }
+ ]
+}

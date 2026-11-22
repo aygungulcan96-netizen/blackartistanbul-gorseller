@@ -1,0 +1,106 @@
+{
+ "id": "sal",
+ "no": "011",
+ "kelime": "pijama",
+ "tur": "isim · gece giysisi",
+ "eski": "pāy-jāma",
+ "dil1": "FARSÇA",
+ "dil2": "TÜRKÇE",
+ "teaser": "Gece giydiğimiz bu kıyafetin adı, aslında bir pantolonu anlatıyor.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "sal_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "sal_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "Bacak giysisi",
+   "metin": "Farsça <em>pāy</em> “ayak, bacak” + <em>jāma</em> “giysi”: bol bir pantolon, şalvar."
+  },
+  {
+   "tip": "metin",
+   "ad": "sal_sabah_3",
+   "etiket": "YOLCULUK",
+   "sayfa": "3 / 5",
+   "baslik": "Hindistan'dan Paris'e",
+   "metin": "Hindistan'da İngilizceye geçti; Türkçeye Fransızca <em>pyjama</em> olarak ulaştı.",
+   "not": "Türkçede bilinen ilk kaydı 1867: “gece pantolonu”."
+  },
+  {
+   "tip": "metin",
+   "ad": "sal_sabah_4",
+   "etiket": "BONUS",
+   "sayfa": "4 / 5",
+   "baslik": "Bir de pacame",
+   "metin": "Osmanlıcada aynı Farsça kelime doğrudan da girmişti: <em>pacame</em>.",
+   "not": "Aynı kelime, iki ayrı yoldan iki kez geldi."
+  },
+  {
+   "tip": "metin",
+   "ad": "sal_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: B, bacak giysisi",
+   "metin": "<em>Pijama</em>, Farsça <em>pāy-jāma</em>: kelimesi kelimesine “bacak giysisi”.",
+   "not": "Dolabındaki hangi kelimeyi merak ediyorsun?",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "sal_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "<i>Tuvalet</i>'in kökünde ne var?",
+   "secenekler": [
+    [
+     "A",
+     "Bir bez parçası"
+    ],
+    [
+     "B",
+     "Bir oda"
+    ],
+    [
+     "C",
+     "Bir kova"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide.",
+   "kelime": "tuvalet"
+  },
+  {
+   "tip": "metin",
+   "ad": "sal_aksam",
+   "etiket": "GÖÇMEN KELİMELER",
+   "sayfa": "",
+   "baslik": "Türkçeden dünyaya",
+   "metin": "<em>ordu</em> ⟶ <i>horde</i> (İngilizce)<br><em>çizme</em> ⟶ <i>csizma</i> (Macarca)<br><em>sağrı</em> ⟶ <i>shagreen</i> (İngilizce)",
+   "not": "Shagreen: sağrı derisinden yapılan pürüzlü bir deri türü.",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "sal_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Pijama</i>'daki <i>pāy</i> ne demek?",
+   "secenekler": [
+    [
+     "A",
+     "Ayak, bacak"
+    ],
+    [
+     "B",
+     "Gece"
+    ],
+    [
+     "C",
+     "Pamuk"
+    ]
+   ],
+   "alt": "Pijamanın hikâyesi profilde ↑",
+   "dogru": "A"
+  }
+ ]
+}

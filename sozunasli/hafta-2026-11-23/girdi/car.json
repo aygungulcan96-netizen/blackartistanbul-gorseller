@@ -1,0 +1,106 @@
+{
+ "id": "car",
+ "no": "012",
+ "kelime": "tuvalet",
+ "tur": "isim · hela; giyim ve bakım",
+ "eski": "toilette",
+ "dil1": "FRANSIZCA",
+ "dil2": "TÜRKÇE",
+ "teaser": "Bugün bir odanın adı; ilk başta küçük bir bez parçasıydı.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "car_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "car_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "Küçük bir bez",
+   "metin": "Fransızca <em>toilette</em>, <em>toile</em> “bez” sözcüğünün küçültme biçimi.",
+   "not": "Ressamın <em>tuvali</em> de aynı kökten."
+  },
+  {
+   "tip": "metin",
+   "ad": "car_sabah_3",
+   "etiket": "ANLAM KAYMASI",
+   "sayfa": "3 / 5",
+   "baslik": "Bezden odaya",
+   "metin": "Fransızcada önce <em>giyim ve süs donanımı</em>, sonra <em>giyinme odası</em>, en sonunda <em>hela</em>."
+  },
+  {
+   "tip": "metin",
+   "ad": "car_sabah_4",
+   "etiket": "TÜRKÇEDE",
+   "sayfa": "4 / 5",
+   "baslik": "Önce makyaj masası",
+   "metin": "Türkçedeki ilk anlamı (1889): <em>giyim ve yüz bakımı masası</em>.",
+   "not": "“Hela” anlamıyla sözlüğe 1945'te girdi."
+  },
+  {
+   "tip": "metin",
+   "ad": "car_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: A, bir bez",
+   "metin": "<em>Tuvalet</em>'in kökünde Fransızca <em>toile</em>, yani bez var.",
+   "not": "Anlamı en çok değişen kelime sence hangisi?",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "car_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "<i>Kahvaltı</i>'nın içinde hangi kelime saklı?",
+   "secenekler": [
+    [
+     "A",
+     "Kahve"
+    ],
+    [
+     "B",
+     "Kâhya"
+    ],
+    [
+     "C",
+     "Kahır"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide.",
+   "kelime": "kahvaltı"
+  },
+  {
+   "tip": "metin",
+   "ad": "car_aksam",
+   "etiket": "YANLIŞ BİLİNENLER",
+   "sayfa": "",
+   "baslik": "Tarhana “dar hane” mi?",
+   "metin": "Yavuz Sultan Selim'in yoksul bir evde içtiği çorbaya <em>“dar hane”</em> dediği anlatılır. Oysa kelime çok daha eski: Farsça <em>tarxvāna</em>.",
+   "not": "Farsça <i>tar</i> “ıslak” + <i>xvān</i> “sofra”.",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "car_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Tuvalet</i> hangi kelimeyle akraba?",
+   "secenekler": [
+    [
+     "A",
+     "Tuval"
+    ],
+    [
+     "B",
+     "Tava"
+    ],
+    [
+     "C",
+     "Tuğla"
+    ]
+   ],
+   "alt": "Tuvaletin hikâyesi profilde ↑",
+   "dogru": "A"
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "id": "pzt",
+ "no": "010",
+ "kelime": "çay",
+ "tur": "isim · sıcak içecek",
+ "eski": "chá",
+ "dil1": "ÇİNCE",
+ "dil2": "TÜRKÇE",
+ "teaser": "Günde kaç bardak içtiğimiz bu kelime, yola Çin'den çıktı.",
+ "dosyalar": [
+  {
+   "tip": "kapak",
+   "ad": "pzt_sabah_1"
+  },
+  {
+   "tip": "metin",
+   "ad": "pzt_sabah_2",
+   "etiket": "KÖKÜ",
+   "sayfa": "2 / 5",
+   "baslik": "Çin'den",
+   "metin": "Çince <em>chá</em>: “çay”, hem bitki hem içecek.",
+   "not": "Kelime, yaprakla birlikte uzun bir yol yürüdü."
+  },
+  {
+   "tip": "metin",
+   "ad": "pzt_sabah_3",
+   "etiket": "YOLCULUK",
+   "sayfa": "3 / 5",
+   "baslik": "Farsça üzerinden",
+   "metin": "Türkçeye doğrudan Çinceden değil, Farsça <em>çāy</em> biçimiyle geçti."
+  },
+  {
+   "tip": "metin",
+   "ad": "pzt_sabah_4",
+   "etiket": "BU HAFTA",
+   "sayfa": "4 / 5",
+   "baslik": "Yedi gün, yedi dil",
+   "metin": "Çince, Farsça, Fransızca, Türkçe, Sanskritçe, Aztekçe, Arapça. Her sabah bir kelime.",
+   "not": "Kaydet, hafta sonunda tekrar bak."
+  },
+  {
+   "tip": "metin",
+   "ad": "pzt_sabah_5",
+   "etiket": "DÜNKÜ SORUNUN CEVABI",
+   "sayfa": "5 / 5",
+   "baslik": "Cevap: A, Çince",
+   "metin": "<em>Çay</em>, Çince <em>chá</em>'dan; Türkçeye Farsça aracılığıyla geldi.",
+   "not": "Bardağındaki başka hangi kelimeyi merak ediyorsun?",
+   "sag": "KAYDET ✦"
+  },
+  {
+   "tip": "story",
+   "ad": "pzt_ogle_hikaye",
+   "etiket": "YARININ KELİMESİ",
+   "soru": "<i>Pijama</i> aslında ne demek?",
+   "secenekler": [
+    [
+     "A",
+     "Gece giysisi"
+    ],
+    [
+     "B",
+     "Bacak giysisi"
+    ],
+    [
+     "C",
+     "Rahat elbise"
+    ]
+   ],
+   "alt": "Cevap yarın sabah, yeni gönderide.",
+   "kelime": "pijama"
+  },
+  {
+   "tip": "soru",
+   "ad": "pzt_aksam",
+   "etiket": "HANGİSİ TÜRKÇE?",
+   "sayfa": "",
+   "baslik": "Yalnızca biri Türkçe",
+   "metin": "Üçü de mutfakta. Hangisi aslen Türkçe?",
+   "secenekler": [
+    [
+     "A",
+     "peçete"
+    ],
+    [
+     "B",
+     "kaşık"
+    ],
+    [
+     "C",
+     "kiler"
+    ]
+   ]
+  },
+  {
+   "tip": "story",
+   "ad": "pzt_aksam_hikaye",
+   "etiket": "BUGÜN ÖĞRENDİK",
+   "soru": "<i>Çay</i> Türkçeye hangi dil aracılığıyla geldi?",
+   "secenekler": [
+    [
+     "A",
+     "Farsça"
+    ],
+    [
+     "B",
+     "Arapça"
+    ],
+    [
+     "C",
+     "Rusça"
+    ]
+   ],
+   "alt": "Çayın hikâyesi profilde ↑",
+   "dogru": "A"
+  }
+ ]
+}

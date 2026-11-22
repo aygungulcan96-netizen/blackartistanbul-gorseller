@@ -32,7 +32,30 @@
     "mektep",
     "kütüphane",
     "kalem",
-    "köşk"
+    "köşk",
+    "tabak",
+    "masa",
+    "kapı",
+    "fincan",
+    "tülbent",
+    "turkuaz",
+    "balkan",
+    "merhaba",
+    "ilim",
+    "peçete",
+    "kaşık",
+    "kiler",
+    "ordu",
+    "çizme",
+    "sağrı",
+    "tarhana",
+    "papuç",
+    "hüküm",
+    "hâkim",
+    "hikmet",
+    "hekim",
+    "mahkeme",
+    "hükümet"
   ],
   "planlandi": [
     {
@@ -124,7 +147,93 @@
       "kelime": "çay",
       "tarih": "2026-11-23",
       "tur": "carousel",
-      "not": "22 Kasım 13:00 hikâyesinde duyurulacak: 'Sence bu kelime hangi dilden geliyor? A) Çince B) Hintçe C) Japonca'. Doğru cevap A (Çince chá; Türkçeye Farsça çāy aracılığıyla geçti). Carousel'in son karesi bu cevabı vermeli. Kaynaklar: https://www.nisanyansozluk.com/kelime/%C3%A7ay , https://www.etimolojiturkce.com/kelime/%C3%A7ay1/"
+      "not": "22 Kasım 13:00 hikâyesinde duyurulacak: 'Sence bu kelime hangi dilden geliyor? A) Çince B) Hintçe C) Japonca'. Doğru cevap A (Çince chá; Türkçeye Farsça çāy aracılığıyla geçti). Carousel'in son karesi bu cevabı vermeli. Kaynaklar: https://www.nisanyansozluk.com/kelime/%C3%A7ay , https://www.etimolojiturkce.com/kelime/%C3%A7ay1/",
+      "no": "010"
+    },
+    {
+      "kelime": "pijama",
+      "tarih": "2026-11-24",
+      "tur": "carousel",
+      "no": "011"
+    },
+    {
+      "kelime": "tuvalet",
+      "tarih": "2026-11-25",
+      "tur": "carousel",
+      "no": "012"
+    },
+    {
+      "kelime": "kahvaltı",
+      "tarih": "2026-11-26",
+      "tur": "carousel",
+      "no": "013"
+    },
+    {
+      "kelime": "şeker",
+      "tarih": "2026-11-27",
+      "tur": "carousel",
+      "no": "014"
+    },
+    {
+      "kelime": "domates",
+      "tarih": "2026-11-28",
+      "tur": "carousel",
+      "no": "015"
+    },
+    {
+      "kelime": "şemsiye",
+      "tarih": "2026-11-29",
+      "tur": "carousel",
+      "no": "016"
+    },
+    {
+      "kelime": "pastırma",
+      "tarih": "2026-11-23",
+      "tur": "reels",
+      "no": "R09"
+    },
+    {
+      "kelime": "jilet",
+      "tarih": "2026-11-24",
+      "tur": "reels",
+      "no": "R10"
+    },
+    {
+      "kelime": "berber",
+      "tarih": "2026-11-25",
+      "tur": "reels",
+      "no": "R11"
+    },
+    {
+      "kelime": "çorba",
+      "tarih": "2026-11-26",
+      "tur": "reels",
+      "no": "R12"
+    },
+    {
+      "kelime": "fasulye",
+      "tarih": "2026-11-27",
+      "tur": "reels",
+      "no": "R13"
+    },
+    {
+      "kelime": "sabun",
+      "tarih": "2026-11-28",
+      "tur": "reels",
+      "no": "R14"
+    },
+    {
+      "kelime": "kaldırım",
+      "tarih": "2026-11-29",
+      "tur": "reels",
+      "no": "R15"
+    },
+    {
+      "kelime": "çarşı",
+      "tarih": "2026-11-30",
+      "tur": "carousel",
+      "no": "017",
+      "not": "29 Kasım 13:00 hikâyesinde duyurulacak: 'Çarşı aslında ne demek? A) Dört taraf B) Kapalı pazar C) Su başı'. Doğru cevap A (Farsça çār 'dört' + sū 'taraf, cihet': iki pazar sokağının kesiştiği dört yol ağzı). Carousel'in son karesi bu cevabı vermeli. Kaynaklar: https://kureansiklopedi.com/tr/detay/carsi-sozluk , https://islamansiklopedisi.org.tr/pazar"
     }
   ],
   "havuz": []
