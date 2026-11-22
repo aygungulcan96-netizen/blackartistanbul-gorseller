@@ -9,7 +9,7 @@
         "https://lithub.com/here-are-the-winners-of-the-2026-national-book-awards/",
         "https://www.edebiyathaber.net/national-book-awards-2026nin-kazananlari-aciklandi/"
       ],
-      "onay": false,
+      "onay": true,
       "paylasildi": false,
       "media_id": null,
       "hikaye_paylasildi": false
@@ -22,7 +22,7 @@
         "https://www.britannica.com/biography/C-Collodi",
         "https://www.ucanews.com/news/pinocchio-200-years-after-his-creators-birth/116045"
       ],
-      "onay": false,
+      "onay": true,
       "paylasildi": false,
       "media_id": null,
       "hikaye_paylasildi": false
@@ -34,7 +34,7 @@
       "kaynaklar": [
         "https://www.history.com/this-day-in-history/november-25/mishima-commits-ritual-suicide"
       ],
-      "onay": false,
+      "onay": true,
       "paylasildi": false,
       "media_id": null,
       "hikaye_paylasildi": false
@@ -46,7 +46,7 @@
       "kaynaklar": [
         "https://www.edebiyathaber.net/korsan-yayinciliga-karsi-kitabin-hakkini-ver-kampanyasi-baslatildi/"
       ],
-      "onay": false,
+      "onay": true,
       "paylasildi": false,
       "media_id": null,
       "hikaye_paylasildi": false
@@ -59,7 +59,7 @@
         "https://gazeteoksijen.com/kitap/zulfu-livanelinin-yeni-romani-kervankiran-17-kasimda-raflarda-295838",
         "https://maximagazin.com/kultur-sanat/zulfu-livaneliden-r-f-kuanga-haftanin-kitaplari/"
       ],
-      "onay": false,
+      "onay": true,
       "paylasildi": false,
       "media_id": null,
       "hikaye_paylasildi": false
@@ -73,7 +73,7 @@
         "https://www.diken.com.tr/booker-odulu-adaylari-kenan-orhan-ilk-romaniyla-listede/",
         "https://maximagazin.com/kultur-sanat/zulfu-livaneliden-r-f-kuanga-haftanin-kitaplari/"
       ],
-      "onay": false,
+      "onay": true,
       "paylasildi": false,
       "media_id": null,
       "hikaye_paylasildi": false
@@ -86,7 +86,7 @@
         "https://www.edebiyathaber.net/sedat-simavi-odulleri-aciklandi/",
         "https://www.edebiyathaber.net/kitap-dergisinin-yilin-en-iyileri-odulleri-sahiplerini-buldu-2/"
       ],
-      "onay": false,
+      "onay": true,
       "paylasildi": false,
       "media_id": null,
       "hikaye_paylasildi": false
